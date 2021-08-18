@@ -7,7 +7,7 @@
 # Feature Engineering (Özellik Mühendisliği)
 # Modelleme
 # Fitting
-# Sperate Data (Veriyi test,train olarak ayırma kodlama)
+# Separate Data (Veriyi test,train olarak ayırma kodlama)
 # Machine Learning Algorithms (Regression Algorithms)
   - Lineer Regresyon
   - Decision Tree Regresyon-Karar Ağacı Regresyon Uygulaması
