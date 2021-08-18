@@ -4,7 +4,7 @@
 # Data Manipulating, Data Cleaning (Manipulasyon,veri İşleme,Veri Temizleme )
 # Normalizyon
 # Data Visualisation (Veri Görselleştirme)
-# Feature Engineering (Özellik Mühendisi)
+# Feature Engineering (Özellik Mühendisliği)
 # Modelleme
 # Fitting
 # Sperate Data (Veriyi test,train olarak ayırma kodlama)
