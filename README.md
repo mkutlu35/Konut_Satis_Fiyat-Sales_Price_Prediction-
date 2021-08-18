@@ -1,5 +1,5 @@
 # Konut Satis Fiyat Tahminlemesi-House Sales Price Prediction (with Python-Machine Learning-Regression Algorithms)
-# Veri Bilimi-Data Scientist-Data Engineer-Yapay Zeka-Makine Öğrenmesi sürecinde becerilerini geliştirmek isteyen Türk öğrenciler için kişisel gelişimlerine katkıda bulunma amacıyla detaylı Makine Öğrenmes aşamalarını açıklaıcı şekilde işleyerek Regresyon (Regression) Algoritmalarının kullınımını dökümanlar bütünüdür.
+# Veri Bilimi-Data Scientist-Data Engineer-Yapay Zeka-Makine Öğrenmesi sürecinde becerilerini geliştirmek isteyen Türk öğrenciler (Türkçe detaylı) için kişisel gelişimlerine katkıda bulunma amacıyla detaylı Makine Öğrenmesi aşamalarını açıklayıcı bir şekilde işleyerek Regresyon (Regression) Algoritmalarının kullınımını içeren dökümanlar bütünüdür.
 # Data Understanding (Verinin Çözümlenmesi,anlaşılması)
 # Data Manipulating, Data Cleaning (Manipulasyon,veri İşleme,Veri Temizleme )
 # Normalizyon
